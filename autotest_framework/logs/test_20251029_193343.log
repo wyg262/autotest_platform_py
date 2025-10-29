@@ -1,0 +1,3 @@
+2025-10-29 19:33:43,897 - config.config - INFO - 变更配置:API_BASE_URL从https://m-uat.z-trip.cn/变更为https://m.z-trip.cn/
+2025-10-29 19:33:43,897 - config.config - INFO - 变更配置:API_TIMEOUT从30变更为20
+2025-10-29 19:33:43,897 - config.config - INFO - 变更配置:LOG_LEVEL从INFO变更为INFO
